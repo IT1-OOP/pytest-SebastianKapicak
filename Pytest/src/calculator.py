@@ -2,7 +2,7 @@ def add(a, b):
     return a + b
 def add_wrong(a,b):
     return 2*a + b
-def subtract(a, b):
+def substract(a, b):
     return a - b
 def multiply(a, b):
     return a * b
